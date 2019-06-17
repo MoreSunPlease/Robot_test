@@ -1,0 +1,540 @@
+﻿Log file open, 06/15/19 20:24:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Test
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.382711
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.294s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD A6-7310 APU with AMD Radeon R4 Graphics    , GPU: AMD Radeon(TM) R4 Graphics
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.15-17.24.27:737][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.15-17.24.27:737][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.15-17.24.27:770][  0]LogHAL: Display: Platform has ~ 4 GB [3660161024 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.15-17.24.27:770][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.15-17.24.27:770][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.15-17.24.27:784][  0]LogInit: Computer: LAPTOP-42IVSEKV
+[2019.06.15-17.24.27:784][  0]LogInit: User: Никита
+[2019.06.15-17.24.27:784][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.15-17.24.27:784][  0]LogInit: High frequency timer resolution =1.949469 MHz
+[2019.06.15-17.24.27:785][  0]LogMemory: Memory total: Physical=3.4GB (4GB approx)
+[2019.06.15-17.24.27:785][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.15-17.24.27:785][  0]LogMemory: Process Physical Memory: 100.07 MB used, 100.07 MB peak
+[2019.06.15-17.24.27:785][  0]LogMemory: Process Virtual Memory: 90.73 MB used, 90.73 MB peak
+[2019.06.15-17.24.27:785][  0]LogMemory: Physical Memory: 3007.06 MB used,  483.54 MB free, 3490.60 MB total
+[2019.06.15-17.24.27:785][  0]LogMemory: Virtual Memory: 4613.07 MB used,  483.54 MB free, 134217728.00 MB total
+[2019.06.15-17.24.28:155][  0]LogInit: Using OS detected language (ru-RU).
+[2019.06.15-17.24.28:155][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.06.15-17.24.28:264][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.06.15-17.24.28:357][  0]LogStreaming: Display: Took  0.203s to InitEngineTextLocalization.
+[2019.06.15-17.24.28:357][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.15-17.24.28:787][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.15-17.24.28:787][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.15-17.24.29:719][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.15-17.24.29:719][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.15-17.24.30:208][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R4 Graphics' (Feature Level 11_0)
+[2019.06.15-17.24.30:208][  0]LogD3D11RHI:       496/0/1745 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.06.15-17.24.30:343][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.15-17.24.30:344][  0]LogD3D11RHI:       0/0/1745 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.15-17.24.30:344][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.15-17.24.30:357][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.15-17.24.30:358][  0]LogD3D11RHI:     GPU DeviceId: 0x9851 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.15-17.24.30:358][  0]LogWindows: EnumDisplayDevices:
+[2019.06.15-17.24.30:358][  0]LogWindows:    0. 'AMD Radeon(TM) R4 Graphics' (P:1 D:1)
+[2019.06.15-17.24.30:359][  0]LogWindows:    1. 'AMD Radeon(TM) R4 Graphics' (P:0 D:0)
+[2019.06.15-17.24.30:360][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2019.06.15-17.24.30:360][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R4 Graphics
+[2019.06.15-17.24.30:360][  0]LogD3D11RHI:   Driver Version: 15.201.2801.1002 (internal:15.201.2801.1002, unified:15.201.2801.1002)
+[2019.06.15-17.24.30:360][  0]LogD3D11RHI:      Driver Date: 2-19-2016
+[2019.06.15-17.24.30:360][  0]LogRHI: Texture pool is 347 MB (70% of 496 MB)
+[2019.06.15-17.24.30:551][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.15-17.24.30:589][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2019.06.15-17.24.30:595][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../Users/Никита/Documents/Unreal Projects/Test/Intermediate/Shaders/WorkingDirectory/7756/).
+[2019.06.15-17.24.30:595][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Никита/AppData/Local/Temp/UnrealShaderWorkingDir/E5EB061643F773128B2C1790AD788E23/'.
+[2019.06.15-17.24.33:035][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.15-17.24.33:138][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.15-17.24.33:201][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.15-17.24.33:261][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.15-17.24.33:359][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.15-17.24.33:423][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.15-17.24.33:486][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.15-17.24.33:542][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.15-17.24.33:571][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:867][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:868][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:868][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:868][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.33:868][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.15-17.24.34:015][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.15-17.24.34:234][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.15-17.24.34:234][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.15-17.24.34:319][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.15-17.24.34:319][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.15-17.24.34:362][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.15-17.24.34:412][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.15-17.24.34:482][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.15-17.24.34:556][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.15-17.24.34:596][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.15-17.24.34:596][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.15-17.24.35:443][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.15-17.24.35:444][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.15-17.24.35:444][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.15-17.24.38:311][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.15-17.24.40:778][  0]LogDerivedDataCache: Loaded boot cache 2.47s 71MB C:/Users/Никита/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.15-17.24.40:779][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Никита/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.15-17.24.40:779][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Никита/Documents/Unreal Projects/Test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.15-17.24.40:779][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.15-17.24.40:779][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Никита/Documents/Unreal Projects/Test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.15-17.24.40:779][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.15-17.24.40:845][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.15-17.24.40:859][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Никита/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.15-17.24.40:859][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.15-17.24.40:859][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.15-17.24.40:909][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.15-17.24.40:913][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.15-17.24.40:933][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.15-17.24.41:352][  0]LogAssetRegistry: FAssetRegistry took 0.0363 seconds to start up
+[2019.06.15-17.24.42:578][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.15-17.24.43:783][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.15-17.24.43:987][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.15-17.24.43:987][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.15-17.24.43:987][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.15-17.24.43:987][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.15-17.24.44:244][  0]LogNetVersion: Test 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1561055972)
+[2019.06.15-17.24.46:741][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.371471 seconds
+[2019.06.15-17.24.46:768][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.15-17.24.46:768][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.06.15-17.24.46:768][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.15-17.25.30:274][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.15-17.25.30:344][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.15-17.25.30:345][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1
+[2019.06.15-17.25.30:345][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2019.06.15-17.25.30:345][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2019.06.15-17.25.31:085][  0]SourceControl: Source control is disabled
+[2019.06.15-17.25.31:085][  0]SourceControl: Source control is disabled
+[2019.06.15-17.25.31:117][  0]SourceControl: Source control is disabled
+[2019.06.15-17.25.31:175][  0]SourceControl: Source control is disabled
+[2019.06.15-17.25.32:666][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.15-17.25.33:107][  0]LogOcInput: OculusInput pre-init called
+[2019.06.15-17.25.33:467][  0]LogEngine: Initializing Engine...
+[2019.06.15-17.25.33:470][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.15-17.25.33:473][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.15-17.25.33:473][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.15-17.25.33:474][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.15-17.25.33:474][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.15-17.25.34:046][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.15-17.25.34:234][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.15-17.25.34:273][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.15-17.25.34:400][  0]LogInit: FAudioDevice initialized.
+[2019.06.15-17.25.34:400][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.15-17.25.35:469][  0]LogDerivedDataCache: Saved boot cache 1.07s 71MB C:/Users/Никита/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.15-17.25.35:484][  0]LogInit: Texture streaming: Enabled
+[2019.06.15-17.25.35:747][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.15-17.25.35:961][  0]LogInit: Transaction tracking system initialized
+[2019.06.15-17.25.36:498][  0]BlueprintLog: New page: Editor Load
+[2019.06.15-17.25.37:989][  0]LocalizationService: Localization service is disabled
+[2019.06.15-17.25.39:970][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Никита/Documents/Unreal Projects/Test/Content/' took 0.01s
+[2019.06.15-17.25.39:970][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.15-17.25.39:970][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.15-17.25.40:010][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.15-17.25.40:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.15-17.25.40:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.15-17.25.40:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.15-17.25.40:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.15-17.25.42:719][  0]SourceControl: Source control is disabled
+[2019.06.15-17.25.42:719][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.15-17.25.42:721][  0]LightingResults: New page: Lighting Build
+[2019.06.15-17.25.42:797][  0]MapCheck: New page: Map Check
+[2019.06.15-17.25.42:797][  0]LightingResults: New page: Lighting Build
+[2019.06.15-17.25.43:346][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.06.15-17.25.43:368][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.15-17.25.43:468][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.15-17.25.43:698][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 229,425ms to complete.
+[2019.06.15-17.25.43:698][  0]LogFileHelpers: Loading map 'Template_Default' took 0.979
+[2019.06.15-17.25.46:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-17.25.47:108][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-17.25.47:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-17.25.47:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.15-17.25.47:425][  0]LogCollectionManager: Loaded 0 collections in 0.007549 seconds
+[2019.06.15-17.25.48:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Никита/Documents/Unreal Projects/Test/Saved/Collections/' took 0.01s
+[2019.06.15-17.25.48:124][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Никита/Documents/Unreal Projects/Test/Content/Developers/Никита/Collections/' took 0.01s
+[2019.06.15-17.25.48:124][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Никита/Documents/Unreal Projects/Test/Content/Collections/' took 0.01s
+[2019.06.15-17.25.48:124][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.15-17.25.48:158][  0]LogContentBrowser: Native class hierarchy populated in 0.0306 seconds. Added 2572 classes and 603 folders.
+[2019.06.15-17.25.48:922][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.06.15-17.25.51:374][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.06.15-17.25.51:502][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.06.15-17.25.52:501][  0]LogSlate: Took 0.096870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.15-17.25.52:543][  0]LogSlate: Took 0.037552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.15-17.25.52:691][  0]LogSlate: Took 0.050020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.15-17.25.53:758][  0]LogRenderer: Reallocating scene render targets to support 764x396 Format 10 NumSamples 1 (Frame:1).
+[2019.06.15-17.25.55:539][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.06.15-17.25.55:539][  0]LogLoad: (Engine Initialization) Total time: 112.75 seconds
+[2019.06.15-17.25.55:539][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.15-17.25.55:560][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.25.55:850][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.15-17.25.56:371][  5]LogAssetRegistry: Asset discovery search completed in 75.0424 seconds
+[2019.06.15-17.25.56:376][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.15-17.25.56:376][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000201 seconds (updated 0 objects)
+[2019.06.15-17.26.12:736][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.26.15:501][863]LogSlate: Took 0.023634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.15-17.26.15:504][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.26.15:616][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.26.23:262][863]LogWindows: LaunchURL http://docs.unrealengine.com/latest/RUS/Programming/UnrealArchitecture/Actors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2019.06.15-17.28.05:537][863]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.15-17.28.10:905][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.28.13:127][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.28.22:425][137]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.15-17.28.22:870][137]LogSlate: Took 0.000727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.15-17.28.22:935][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.28.25:950][281]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.28.25:950][281]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.28.28:938][424]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.28.28:938][424]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.28.31:567][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.28.35:505][712]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Robot.Robot
+[2019.06.15-17.28.38:712][712]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 116 classes and 0 folders.
+[2019.06.15-17.28.51:755][713]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.06.15-17.28.57:077][826]LogSlate: Window 'Tutorials' being destroyed
+[2019.06.15-17.32.07:817][877]LogSlate: Window 'Tutorials' being destroyed
+[2019.06.15-17.32.07:823][877]LogSlate: Window 'Tutorials' being destroyed
+[2019.06.15-17.32.16:356][102]LogRenderer: Reallocating scene render targets to support 808x628 Format 10 NumSamples 1 (Frame:5357).
+[2019.06.15-17.32.37:224][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.32.42:967][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.32.47:117][803]LogSlate: Took 0.032815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.15-17.33.03:343][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.33.18:307][682]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.33.20:866][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.34.14:613][858]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.34.14:613][858]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.34.17:062][913]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.34.17:062][913]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.34.58:744][953]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.34.58:745][953]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.35.00:296][ 11]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.35.00:297][ 11]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.35.16:557][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.35.55:081][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.36.27:200][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.37.13:801][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.38.01:024][713]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.147
+[2019.06.15-17.38.01:045][713]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Robot] ([1] browsable assets)...
+[2019.06.15-17.38.01:144][713]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Robot.Robot]
+[2019.06.15-17.38.01:144][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robot]
+[2019.06.15-17.38.01:144][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot" FILE="../../../../../Users/Никита/Documents/Unreal Projects/Test/Saved/Autosaves/Game/Robot_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.06.15-17.38.01:410][713]LogSavePackage: Moving '../../../../../Users/Никита/Documents/Unreal Projects/Test/Saved/Robot_Auto1737209704509F5CD472E56BC3FFFA5E4.tmp' to '../../../../../Users/Никита/Documents/Unreal Projects/Test/Saved/Autosaves/Game/Robot_Auto1.uasset'
+[2019.06.15-17.38.01:428][713]LogFileHelpers: Auto-saving content packages took 0.402
+[2019.06.15-17.39.22:305][326]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:305][326]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:307][326]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:307][326]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:334][327]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:334][327]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:335][327]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:335][327]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:379][328]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:379][328]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:379][328]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:380][328]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:429][329]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:429][329]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:430][329]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:430][329]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:479][330]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:480][330]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:480][330]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:480][330]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:978][340]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:978][340]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.22:980][340]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.22:981][340]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:026][341]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:026][341]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:027][341]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:027][341]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:076][342]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:076][342]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:077][342]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:077][342]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:126][343]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:127][343]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:127][343]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:127][343]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:175][344]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:175][344]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:176][344]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:176][344]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:224][345]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:225][345]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:225][345]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:226][345]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:276][346]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:276][346]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:277][346]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:277][346]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:327][347]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:327][347]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:328][347]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:328][347]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:374][348]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:375][348]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:375][348]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:376][348]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:430][349]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:430][349]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:430][349]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:431][349]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:478][350]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:478][350]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.23:479][350]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.23:479][350]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:158][382]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:158][382]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:160][382]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:160][382]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:205][383]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:205][383]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:206][383]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:206][383]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:253][384]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:253][384]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:254][384]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:255][384]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:303][385]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:303][385]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:305][385]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:305][385]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:357][386]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:357][386]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:358][386]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:358][386]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:406][387]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:406][387]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:406][387]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:406][387]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:703][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:704][393]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:706][393]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:706][393]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:753][394]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:753][394]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:754][394]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:754][394]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:803][395]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:803][395]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:804][395]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:804][395]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:852][396]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:852][396]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:853][396]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:853][396]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:900][397]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:901][397]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:901][397]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:901][397]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:952][398]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:952][398]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.25:953][398]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.25:953][398]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.26:009][399]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.26:010][399]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.39.26:010][399]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.06.15-17.39.26:010][399]LogPhysics: Warning: ForeachShape(Convex): [/Engine/BasicShapes/Cylinder.Cylinder] ScaledElem[0] invalid
+[2019.06.15-17.40.32:248][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.41.18:995][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.41.41:471][809]BlueprintLog: New page: Compile Robot
+[2019.06.15-17.41.53:100][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.42.08:496][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.42.43:949][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.42.58:628][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.43.05:128][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.43.13:342][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.43.52:221][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.44.19:990][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.44.19:991][ 97]BlueprintLog: New page: Compile Robot
+[2019.06.15-17.44.54:472][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.44.54:513][813]LogSlate: Took 0.012571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.15-17.45.38:932][211]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.45.38:932][211]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.45.40:461][281]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.45.40:461][281]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.48.30:373][153]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.075
+[2019.06.15-17.48.30:378][153]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Robot] ([1] browsable assets)...
+[2019.06.15-17.48.30:445][153]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Robot.Robot]
+[2019.06.15-17.48.30:445][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robot]
+[2019.06.15-17.48.30:445][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robot" FILE="../../../../../Users/Никита/Documents/Unreal Projects/Test/Saved/Autosaves/Game/Robot_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.06.15-17.48.30:498][153]LogSavePackage: Moving '../../../../../Users/Никита/Documents/Unreal Projects/Test/Saved/Robot_Auto2572CFF7C46B508318F7355BD35F810EB.tmp' to '../../../../../Users/Никита/Documents/Unreal Projects/Test/Saved/Autosaves/Game/Robot_Auto2.uasset'
+[2019.06.15-17.48.30:503][153]LogFileHelpers: Auto-saving content packages took 0.127
+[2019.06.15-17.49.12:770][406]BlueprintLog: New page: Compile Robot
+[2019.06.15-17.49.12:824][406]LogBlueprint: Error: [Compiler Robot] This blueprint (self) is not a MovementComponent, therefore ' Target ' must have a connection.
+[2019.06.15-17.49.13:961][406]LogBlueprint: Warning: [Compiler Robot] [1511,17] Compile of Robot failed. 1 Fatal Issue(s) 0 Warning(s) [in 1 190 ms] (/Game/Robot.Robot)
+[2019.06.15-17.50.23:524][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.50.39:972][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.15-17.51.14:676][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.15-17.51.45:689][838]BlueprintLog: New page: Compile Robot
+[2019.06.15-17.51.45:708][838]LogBlueprint: Error: [Compiler Robot] This blueprint (self) is not a MovementComponent, therefore ' Target ' must have a connection.
+[2019.06.15-17.51.46:285][838]LogBlueprint: Warning: [Compiler Robot] [1663,50] Compile of Robot failed. 1 Fatal Issue(s) 0 Warning(s) [in 595 ms] (/Game/Robot.Robot)
+[2019.06.15-17.53.48:906][ 99]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.53.48:907][ 99]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.53.50:735][167]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.53.50:735][167]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.54.10:803][867]LogSlate: Window 'Robot*' being destroyed
+[2019.06.15-17.54.11:045][867]LogSlate: Window 'Robot*' being destroyed
+[2019.06.15-17.54.24:445][867]LogSlate: Window 'Save Content' being destroyed
+[2019.06.15-17.55.47:233][867]LogSlate: Window 'Test - Unreal Editor' being destroyed
+[2019.06.15-17.56.39:167][868]Cmd: QUIT_EDITOR
+[2019.06.15-17.57.19:563][868]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.15-17.57.26:548][868]LogExit: Preparing to exit.
